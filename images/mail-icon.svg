@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.4" height="17.55" viewBox="0 0 23.4 17.55">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="prefix__mail_6_" data-name="mail(6)" transform="translate(0 -64)">
+        <g id="prefix__Group_7387" data-name="Group 7387" transform="translate(0 64)">
+            <g id="prefix__Group_7386" data-name="Group 7386">
+                <path id="prefix__Path_87002" d="M7.086 65.424c3.212 2.72 8.847 7.5 10.5 9a.978.978 0 0 0 1.415 0c1.658-1.493 7.293-6.279 10.5-9a.487.487 0 0 0 .069-.673A1.936 1.936 0 0 0 28.048 64h-19.5a1.936 1.936 0 0 0-1.53.751.487.487 0 0 0 .068.673z" class="prefix__cls-1" data-name="Path 87002" transform="translate(-6.598 -64)"/>
+                <path id="prefix__Path_87003" d="M23.117 126.457a.485.485 0 0 0-.52.07c-3.562 3.019-8.107 6.889-9.537 8.178a1.974 1.974 0 0 1-2.721 0c-1.525-1.374-6.629-5.713-9.539-8.178a.488.488 0 0 0-.8.372v12.26a1.952 1.952 0 0 0 1.95 1.95h19.5a1.952 1.952 0 0 0 1.95-1.95V126.9a.487.487 0 0 0-.283-.443z" class="prefix__cls-1" data-name="Path 87003" transform="translate(0 -123.559)"/>
+            </g>
+        </g>
+    </g>
+</svg>

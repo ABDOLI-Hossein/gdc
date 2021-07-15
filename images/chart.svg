@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+  <g id="Group_20238" data-name="Group 20238" transform="translate(-525 -1902)">
+    <g id="Ellipse_815" data-name="Ellipse 815" transform="translate(525 1902)" fill="#fff" stroke="rgba(223,221,198,0.7)" stroke-width="1">
+      <circle cx="160" cy="160" r="160" stroke="none"/>
+      <circle cx="160" cy="160" r="159.5" fill="none"/>
+    </g>
+    <g id="Ellipse_817" data-name="Ellipse 817" transform="translate(564 1941)" fill="#fff" stroke="rgba(223,221,198,0.7)" stroke-width="1">
+      <circle cx="121" cy="121" r="121" stroke="none"/>
+      <circle cx="121" cy="121" r="120.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_818" data-name="Ellipse 818" cx="8" cy="8" r="8" transform="translate(677 2175)" fill="#bcd38b"/>
+    <circle id="Ellipse_819" data-name="Ellipse 819" cx="6" cy="6" r="6" transform="translate(559 2054)" fill="#f8f6e7"/>
+    <circle id="Ellipse_820" data-name="Ellipse 820" cx="6" cy="6" r="6" transform="translate(629 1905)" fill="#616161"/>
+    <g id="Ellipse_878" data-name="Ellipse 878" transform="translate(603.5 1981)" fill="#fff" stroke="rgba(223,221,198,0.7)" stroke-width="1">
+      <circle cx="81.5" cy="81.5" r="81.5" stroke="none"/>
+      <circle cx="81.5" cy="81.5" r="81" fill="none"/>
+    </g>
+    <g id="Ellipse_879" data-name="Ellipse 879" transform="translate(732 1996)" fill="#fff" stroke="#bcd38b" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+  </g>
+</svg>

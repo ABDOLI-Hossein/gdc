@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.497" height="15.497" viewBox="0 0 15.497 15.497">
+  <g id="Group_20237" data-name="Group 20237" transform="translate(-307.775 -4187.328)">
+    <g id="Group_63" data-name="Group 63" transform="translate(307.775 4187.328)">
+      <g id="Group_62" data-name="Group 62">
+        <path id="Path_426" data-name="Path 426" d="M11,0H4.5A4.507,4.507,0,0,0,0,4.5V11a4.507,4.507,0,0,0,4.5,4.5H11A4.507,4.507,0,0,0,15.5,11V4.5A4.507,4.507,0,0,0,11,0Zm3.291,11A3.3,3.3,0,0,1,11,14.286H4.5A3.3,3.3,0,0,1,1.211,11V4.5A3.3,3.3,0,0,1,4.5,1.211H11A3.3,3.3,0,0,1,14.286,4.5Z" transform="translate(0)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_65" data-name="Group 65" transform="translate(311.566 4191.118)">
+      <g id="Group_64" data-name="Group 64">
+        <path id="Path_427" data-name="Path 427" d="M121.958,118a3.958,3.958,0,1,0,3.958,3.958A3.962,3.962,0,0,0,121.958,118Zm0,6.768a2.81,2.81,0,1,1,2.81-2.81A2.814,2.814,0,0,1,121.958,124.768Z" transform="translate(-118 -118)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_67" data-name="Group 67" transform="translate(319.054 4190.753)">
+      <g id="Group_66" data-name="Group 66" transform="translate(0 0)">
+        <ellipse id="Ellipse_17" data-name="Ellipse 17" cx="0.738" rx="0.738" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
